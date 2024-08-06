@@ -1,0 +1,14 @@
+/* .elememt:hover {
+  box-shadow: 12px 12px 12 px rgba(0, 0, 0, 0.1), -10px 10px -10px white;
+} */
+/* .gradient-text {
+  color: linear-gradient(to right, red, blue);
+} */
+/* 渐变 */
+.gradient-text {
+  font-size: 2em;
+  font-weight: bold;
+  background: linear-gradient(45deg, red, blue);
+  background-clip: text;
+  color: transparent;
+}
