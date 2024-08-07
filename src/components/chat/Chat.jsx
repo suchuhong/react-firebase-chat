@@ -69,6 +69,7 @@ const Chat = () => {
         </div>
         <div className="message own">
           <div className="texts">
+            <img src="./avatar.png" alt="" />
             <p>
               kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
               kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
