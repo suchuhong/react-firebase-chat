@@ -28,7 +28,55 @@ const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="centor"></div>
+      <div className="centor">
+        <div className="message own">
+          <div className="texts">
+            <p>
+              kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
+              kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
+              kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
+              kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
+              kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              kkkkkkkkkkkkkkkkkkkkkkkkk jjjjjjjjjjjjjjjjjjjjjjjjj
+              kkkkkkkkkkkkkkkkkkkkkkkkkoo ooooooooooooooooooooooooooo
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
